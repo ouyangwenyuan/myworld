@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MidiDroid-v1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/97f14c2bcd219b3f9d810ed5b6c878f4c76188de/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/97f14c2bcd219b3f9d810ed5b6c878f4c76188de/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

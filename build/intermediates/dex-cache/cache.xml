@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ouyangwenyuan/mygit-repository/myworld1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/ouyangwenyuan/mygit-repository/myworld1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fb5d1987db7b785610e3ee3c929de0bd4e83c030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ouyangwenyuan/mygit-repository/myworld1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d723d7be1252527d68dcbb894f2737a7e3b0ddfe">
+        <dex dex="/Users/ouyangwenyuan/mygit-repository/myworld1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c2ebc43988c87df84182d801062065db1737bcf/classes.dex" />
+    </item>
+
+</items>
